@@ -95,10 +95,10 @@ end
 --\\=================================//
 
 Player_Size = 1 --Size of the player.
-Animation_Speed = 3
-Frame_Speed = 1 / 60 -- (1 / 30) OR (1 / 60)
+Animation_Speed = 5
+Frame_Speed = 3 / 60 -- (1 / 30) OR (1 / 60)
 
-local Speed = 16
+local Speed = 25
 local Effects2 = {}
 
 --//=================================\\
